@@ -1,0 +1,6 @@
+/build
+/.mosyncproject.local
+.DS_Store
+/fp.xml
+/log.txt
+/profile.txt

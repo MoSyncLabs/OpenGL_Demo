@@ -1,0 +1,12 @@
+.res R_TEXTURE
+.image "tile.jpg"
+
+.res R_HEIGHTMAP
+.image "heightmap.png"
+
+.res R_SKYMAP
+.image "skymap.png"
+
+.res R_FONT
+.ubin
+.include "font/font.mof"
